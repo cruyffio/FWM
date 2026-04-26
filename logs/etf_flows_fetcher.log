@@ -1,0 +1,6 @@
+2026-04-19 15:34:06,460 | INFO | etf_flows_fetcher | Fetching ETF shares outstanding / AUM flows...
+2026-04-19 15:34:08,724 | INFO | etf_flows_fetcher |   GLD current shares outstanding: 260.3M
+2026-04-19 15:34:08,746 | INFO | etf_flows_fetcher |   GLD: 5,381 rows, latest AUM=$113785M
+2026-04-19 15:34:09,386 | INFO | etf_flows_fetcher |   IAU current shares outstanding: 970.2M
+2026-04-19 15:34:09,402 | INFO | etf_flows_fetcher |   IAU: 5,333 rows, latest AUM=$86887M
+2026-04-19 15:34:09,439 | INFO | etf_flows_fetcher | ETF flows done — 10,714 rows at data/raw/etf_flows/2026-04-19_etf_gld_iau_flows.parquet

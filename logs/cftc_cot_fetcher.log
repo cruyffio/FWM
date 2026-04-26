@@ -1,0 +1,55 @@
+2026-04-19 15:32:38,415 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2009: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2009.zip
+2026-04-19 15:32:44,919 | ERROR | cftc_cot_fetcher |   Failed 2009: 404 Client Error: Not Found for url: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2009.zip
+2026-04-19 15:32:44,923 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2010: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2010.zip
+2026-04-19 15:32:48,973 | INFO | cftc_cot_fetcher |   2010: 5,547 total rows, 191 columns
+2026-04-19 15:32:48,995 | INFO | cftc_cot_fetcher |   2010: 52 gold COT rows
+2026-04-19 15:32:48,996 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2011: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2011.zip
+2026-04-19 15:32:53,691 | INFO | cftc_cot_fetcher |   2011: 5,486 total rows, 191 columns
+2026-04-19 15:32:53,695 | INFO | cftc_cot_fetcher |   2011: 52 gold COT rows
+2026-04-19 15:32:53,696 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2012: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2012.zip
+2026-04-19 15:32:58,943 | INFO | cftc_cot_fetcher |   2012: 5,938 total rows, 191 columns
+2026-04-19 15:32:58,947 | INFO | cftc_cot_fetcher |   2012: 53 gold COT rows
+2026-04-19 15:32:58,948 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2013: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2013.zip
+2026-04-19 15:33:02,989 | INFO | cftc_cot_fetcher |   2013: 8,270 total rows, 191 columns
+2026-04-19 15:33:02,993 | INFO | cftc_cot_fetcher |   2013: 52 gold COT rows
+2026-04-19 15:33:02,994 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2014: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2014.zip
+2026-04-19 15:33:06,805 | INFO | cftc_cot_fetcher |   2014: 10,271 total rows, 191 columns
+2026-04-19 15:33:06,810 | INFO | cftc_cot_fetcher |   2014: 52 gold COT rows
+2026-04-19 15:33:06,811 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2015: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2015.zip
+2026-04-19 15:33:10,486 | INFO | cftc_cot_fetcher |   2015: 9,762 total rows, 191 columns
+2026-04-19 15:33:10,490 | INFO | cftc_cot_fetcher |   2015: 52 gold COT rows
+2026-04-19 15:33:10,491 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2016: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2016.zip
+2026-04-19 15:33:14,279 | INFO | cftc_cot_fetcher |   2016: 10,520 total rows, 191 columns
+2026-04-19 15:33:14,283 | INFO | cftc_cot_fetcher |   2016: 52 gold COT rows
+2026-04-19 15:33:14,284 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2017: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2017.zip
+2026-04-19 15:33:18,343 | INFO | cftc_cot_fetcher |   2017: 10,204 total rows, 191 columns
+2026-04-19 15:33:18,349 | INFO | cftc_cot_fetcher |   2017: 52 gold COT rows
+2026-04-19 15:33:18,349 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2018: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2018.zip
+2026-04-19 15:33:21,633 | INFO | cftc_cot_fetcher |   2018: 10,874 total rows, 191 columns
+2026-04-19 15:33:21,637 | INFO | cftc_cot_fetcher |   2018: 53 gold COT rows
+2026-04-19 15:33:21,638 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2019: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2019.zip
+2026-04-19 15:33:24,848 | INFO | cftc_cot_fetcher |   2019: 10,954 total rows, 191 columns
+2026-04-19 15:33:24,853 | INFO | cftc_cot_fetcher |   2019: 52 gold COT rows
+2026-04-19 15:33:24,853 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2020: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2020.zip
+2026-04-19 15:33:29,432 | INFO | cftc_cot_fetcher |   2020: 10,786 total rows, 191 columns
+2026-04-19 15:33:29,436 | INFO | cftc_cot_fetcher |   2020: 52 gold COT rows
+2026-04-19 15:33:29,437 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2021: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2021.zip
+2026-04-19 15:33:32,824 | INFO | cftc_cot_fetcher |   2021: 10,704 total rows, 191 columns
+2026-04-19 15:33:32,829 | INFO | cftc_cot_fetcher |   2021: 52 gold COT rows
+2026-04-19 15:33:32,830 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2022: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2022.zip
+2026-04-19 15:33:35,889 | INFO | cftc_cot_fetcher |   2022: 11,526 total rows, 191 columns
+2026-04-19 15:33:35,893 | INFO | cftc_cot_fetcher |   2022: 52 gold COT rows
+2026-04-19 15:33:35,894 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2023: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2023.zip
+2026-04-19 15:33:39,431 | INFO | cftc_cot_fetcher |   2023: 12,534 total rows, 191 columns
+2026-04-19 15:33:39,435 | INFO | cftc_cot_fetcher |   2023: 52 gold COT rows
+2026-04-19 15:33:39,436 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2024: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2024.zip
+2026-04-19 15:33:43,113 | INFO | cftc_cot_fetcher |   2024: 13,601 total rows, 191 columns
+2026-04-19 15:33:43,118 | INFO | cftc_cot_fetcher |   2024: 53 gold COT rows
+2026-04-19 15:33:43,119 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2025: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2025.zip
+2026-04-19 15:33:47,307 | INFO | cftc_cot_fetcher |   2025: 13,630 total rows, 191 columns
+2026-04-19 15:33:47,311 | INFO | cftc_cot_fetcher |   2025: 52 gold COT rows
+2026-04-19 15:33:47,312 | INFO | cftc_cot_fetcher |   Downloading CFTC COT 2026: https://www.cftc.gov/files/dea/history/fut_disagg_txt_2026.zip
+2026-04-19 15:33:51,256 | INFO | cftc_cot_fetcher |   2026: 4,036 total rows, 191 columns
+2026-04-19 15:33:51,259 | INFO | cftc_cot_fetcher |   2026: 15 gold COT rows
+2026-04-19 15:33:51,320 | INFO | cftc_cot_fetcher |   Total COT rows: 693  (2013-01-08 → 2026-04-14)
+2026-04-19 15:33:51,366 | INFO | cftc_cot_fetcher | CFTC COT done — 693 rows at data/raw/cftc_cot/2026-04-19_cot_gold_disaggregated.parquet

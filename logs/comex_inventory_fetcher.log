@@ -1,0 +1,6 @@
+2026-04-19 15:34:20,266 | INFO | comex_inventory_fetcher | Fetching COMEX gold inventory...
+2026-04-19 15:34:20,266 | INFO | comex_inventory_fetcher |   Fetching CME current gold inventory: https://www.cmegroup.com/delivery_reports/Gold_Stocks.xls
+2026-04-19 15:34:53,384 | ERROR | comex_inventory_fetcher |   CME XLS failed: `Import xlrd` failed. Install xlrd >= 2.0.1 for xls Excel support Use pip or conda to install the xlrd package.
+2026-04-19 15:34:53,584 | INFO | comex_inventory_fetcher |   Fetching GC=F volume/open interest via yfinance...
+2026-04-19 15:34:56,536 | INFO | comex_inventory_fetcher |   GC=F volume: 6,431 rows
+2026-04-19 15:34:56,576 | INFO | comex_inventory_fetcher | COMEX inventory done — 6,431 rows at data/raw/comex_inventory/2026-04-19_comex_gold_inventory.parquet

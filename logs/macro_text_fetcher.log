@@ -1,0 +1,178 @@
+2026-04-12 22:19:35,359 | INFO | macro_text_fetcher | Fetching BLS CPI archive index...
+2026-04-12 22:19:37,235 | ERROR | macro_text_fetcher |   CPI index failed: 403 Client Error: Forbidden for url: https://www.bls.gov/bls/news-release/cpi.htm
+2026-04-12 22:19:37,237 | INFO | macro_text_fetcher | Fetching BLS PPI archive index...
+2026-04-12 22:19:38,843 | ERROR | macro_text_fetcher |   PPI index failed: 403 Client Error: Forbidden for url: https://www.bls.gov/bls/news-release/ppi.htm
+2026-04-12 22:19:38,846 | INFO | macro_text_fetcher | Fetching Treasury press releases index...
+2026-04-12 22:19:38,846 | INFO | macro_text_fetcher |   Treasury page 0: https://home.treasury.gov/news/press-releases
+2026-04-12 22:19:40,636 | INFO | macro_text_fetcher |   Fetching text for 0 Treasury releases...
+2026-04-12 22:19:40,636 | INFO | macro_text_fetcher | Fetching Beige Book archive index...
+2026-04-12 22:19:42,345 | INFO | macro_text_fetcher |   Found 0 Beige Books in range
+2026-04-12 22:19:42,345 | WARNING | macro_text_fetcher | No macro text documents fetched.
+2026-04-12 22:22:40,016 | INFO | macro_text_fetcher | Fetching BLS CPI archive index...
+2026-04-12 22:22:42,708 | ERROR | macro_text_fetcher |   CPI index failed: 403 Client Error: Forbidden for url: https://www.bls.gov/bls/news-release/cpi.htm
+2026-04-12 22:22:42,711 | INFO | macro_text_fetcher | Fetching BLS PPI archive index...
+2026-04-12 22:22:45,334 | ERROR | macro_text_fetcher |   PPI index failed: 403 Client Error: Forbidden for url: https://www.bls.gov/bls/news-release/ppi.htm
+2026-04-12 22:22:45,338 | INFO | macro_text_fetcher | Fetching Treasury press releases via JSON API...
+2026-04-12 22:22:48,035 | WARNING | macro_text_fetcher |   Treasury API returned no results — trying direct scrape
+2026-04-12 22:22:48,035 | INFO | macro_text_fetcher |   Trying Treasury search for quarterly refunding...
+2026-04-12 22:22:51,412 | INFO | macro_text_fetcher |   Fetching text for 0 Treasury releases...
+2026-04-12 22:22:51,413 | INFO | macro_text_fetcher | Fetching Beige Books via direct URL construction...
+2026-04-12 22:28:22,864 | INFO | macro_text_fetcher | Fetching Beige Books (direct URL construction)...
+2026-04-12 22:28:24,695 | INFO | macro_text_fetcher |   Beige Book 202001: 15,315 words
+2026-04-12 22:28:26,369 | INFO | macro_text_fetcher |   Beige Book 202003: 15,851 words
+2026-04-12 22:28:28,019 | INFO | macro_text_fetcher |   Beige Book 202005: 16,849 words
+2026-04-12 22:28:36,437 | INFO | macro_text_fetcher |   Beige Book 202009: 16,357 words
+2026-04-12 22:28:38,122 | INFO | macro_text_fetcher |   Beige Book 202010: 16,355 words
+2026-04-12 22:28:42,993 | INFO | macro_text_fetcher |   Beige Book 202012: 16,043 words
+2026-04-12 22:28:44,672 | INFO | macro_text_fetcher |   Beige Book 202101: 16,035 words
+2026-04-12 22:28:46,341 | INFO | macro_text_fetcher |   Beige Book 202103: 16,452 words
+2026-04-12 22:28:51,193 | INFO | macro_text_fetcher |   Beige Book 202106: 16,415 words
+2026-04-12 22:28:56,063 | INFO | macro_text_fetcher |   Beige Book 202109: 16,205 words
+2026-04-12 22:28:57,737 | INFO | macro_text_fetcher |   Beige Book 202110: 16,024 words
+2026-04-12 22:29:02,920 | INFO | macro_text_fetcher |   Beige Book 202112: 16,019 words
+2026-04-12 22:29:04,610 | INFO | macro_text_fetcher |   Beige Book 202201: 16,117 words
+2026-04-12 22:29:06,267 | INFO | macro_text_fetcher |   Beige Book 202203: 16,093 words
+2026-04-12 22:29:11,163 | INFO | macro_text_fetcher |   Beige Book 202206: 16,429 words
+2026-04-12 22:29:16,073 | INFO | macro_text_fetcher |   Beige Book 202209: 16,095 words
+2026-04-12 22:29:17,744 | INFO | macro_text_fetcher |   Beige Book 202210: 16,451 words
+2026-04-12 22:29:19,413 | INFO | macro_text_fetcher |   Beige Book 202211: 16,289 words
+2026-04-12 22:29:24,278 | INFO | macro_text_fetcher |   Beige Book 202301: 16,225 words
+2026-04-12 22:29:25,950 | INFO | macro_text_fetcher |   Beige Book 202303: 16,127 words
+2026-04-12 22:29:37,623 | INFO | macro_text_fetcher |   Beige Book 202309: 15,913 words
+2026-04-12 22:29:39,314 | INFO | macro_text_fetcher |   Beige Book 202310: 15,882 words
+2026-04-12 22:29:40,992 | INFO | macro_text_fetcher |   Beige Book 202311: 15,390 words
+2026-04-12 22:29:44,471 | INFO | macro_text_fetcher |   Total Beige Books fetched: 23
+2026-04-12 22:29:44,477 | INFO | macro_text_fetcher | Fetching BLS CPI releases (direct URL, one by one)...
+2026-04-12 22:35:42,887 | INFO | macro_text_fetcher | Fetching Beige Books (direct URL construction)...
+2026-04-12 22:44:59,942 | INFO | macro_text_fetcher | Fetching Beige Books (direct URL construction)...
+2026-04-12 22:45:15,291 | INFO | macro_text_fetcher |   Progress: 2000-12 (0 found so far)
+2026-04-12 22:45:31,503 | INFO | macro_text_fetcher |   Progress: 2001-12 (0 found so far)
+2026-04-12 22:45:47,518 | INFO | macro_text_fetcher |   Progress: 2002-12 (0 found so far)
+2026-04-12 22:46:03,542 | INFO | macro_text_fetcher |   Progress: 2003-12 (0 found so far)
+2026-04-12 22:46:19,564 | INFO | macro_text_fetcher |   Progress: 2004-12 (0 found so far)
+2026-04-12 22:46:35,531 | INFO | macro_text_fetcher |   Progress: 2005-12 (0 found so far)
+2026-04-12 22:46:51,517 | INFO | macro_text_fetcher |   Progress: 2006-12 (0 found so far)
+2026-04-12 22:47:07,495 | INFO | macro_text_fetcher |   Progress: 2007-12 (0 found so far)
+2026-04-12 22:47:23,435 | INFO | macro_text_fetcher |   Progress: 2008-12 (0 found so far)
+2026-04-12 22:47:39,383 | INFO | macro_text_fetcher |   Progress: 2009-12 (0 found so far)
+2026-04-12 22:47:55,519 | INFO | macro_text_fetcher |   Progress: 2010-12 (0 found so far)
+2026-04-12 22:48:11,450 | INFO | macro_text_fetcher |   Progress: 2011-12 (0 found so far)
+2026-04-12 22:48:27,513 | INFO | macro_text_fetcher |   Progress: 2012-12 (0 found so far)
+2026-04-12 22:48:43,579 | INFO | macro_text_fetcher |   Progress: 2013-12 (0 found so far)
+2026-04-12 22:48:59,593 | INFO | macro_text_fetcher |   Progress: 2014-12 (0 found so far)
+2026-04-12 22:49:15,586 | INFO | macro_text_fetcher |   Progress: 2015-12 (0 found so far)
+2026-04-12 22:49:31,741 | INFO | macro_text_fetcher |   Progress: 2016-12 (0 found so far)
+2026-04-12 22:49:34,440 | INFO | macro_text_fetcher |   Beige Book 201701: 14,705 words
+2026-04-12 22:49:35,384 | INFO | macro_text_fetcher |   Beige Book 201703: 14,944 words
+2026-04-12 22:49:36,322 | INFO | macro_text_fetcher |   Beige Book 201705: 14,994 words
+2026-04-12 22:49:40,849 | INFO | macro_text_fetcher |   Beige Book 201709: 15,186 words
+2026-04-12 22:49:41,791 | INFO | macro_text_fetcher |   Beige Book 201710: 15,003 words
+2026-04-12 22:49:42,779 | INFO | macro_text_fetcher |   Beige Book 201711: 15,164 words
+2026-04-12 22:49:42,779 | INFO | macro_text_fetcher |   Progress: 2017-12 (6 found so far)
+2026-04-12 22:49:45,506 | INFO | macro_text_fetcher |   Beige Book 201801: 15,080 words
+2026-04-12 22:49:46,439 | INFO | macro_text_fetcher |   Beige Book 201803: 15,103 words
+2026-04-12 22:49:47,383 | INFO | macro_text_fetcher |   Beige Book 201805: 15,240 words
+2026-04-12 22:49:51,921 | INFO | macro_text_fetcher |   Beige Book 201809: 15,355 words
+2026-04-12 22:49:52,877 | INFO | macro_text_fetcher |   Beige Book 201810: 15,360 words
+2026-04-12 22:49:54,665 | INFO | macro_text_fetcher |   Progress: 2018-12 (11 found so far)
+2026-04-12 22:49:55,632 | INFO | macro_text_fetcher |   Beige Book 201812: 15,519 words
+2026-04-12 22:49:56,592 | INFO | macro_text_fetcher |   Beige Book 201901: 14,885 words
+2026-04-12 22:49:57,547 | INFO | macro_text_fetcher |   Beige Book 201903: 15,250 words
+2026-04-12 22:50:00,299 | INFO | macro_text_fetcher |   Beige Book 201906: 15,319 words
+2026-04-12 22:50:03,034 | INFO | macro_text_fetcher |   Beige Book 201909: 15,368 words
+2026-04-12 22:50:04,066 | INFO | macro_text_fetcher |   Beige Book 201910: 15,545 words
+2026-04-12 22:50:05,055 | INFO | macro_text_fetcher |   Beige Book 201911: 15,636 words
+2026-04-12 22:50:05,056 | INFO | macro_text_fetcher |   Progress: 2019-12 (18 found so far)
+2026-04-12 22:50:07,811 | INFO | macro_text_fetcher |   Beige Book 202001: 15,315 words
+2026-04-12 22:50:08,762 | INFO | macro_text_fetcher |   Beige Book 202003: 15,851 words
+2026-04-12 22:50:09,689 | INFO | macro_text_fetcher |   Beige Book 202005: 16,849 words
+2026-04-12 22:50:14,197 | INFO | macro_text_fetcher |   Beige Book 202009: 16,357 words
+2026-04-12 22:50:15,153 | INFO | macro_text_fetcher |   Beige Book 202010: 16,355 words
+2026-04-12 22:50:16,927 | INFO | macro_text_fetcher |   Progress: 2020-12 (23 found so far)
+2026-04-12 22:50:17,875 | INFO | macro_text_fetcher |   Beige Book 202012: 16,043 words
+2026-04-12 22:50:18,821 | INFO | macro_text_fetcher |   Beige Book 202101: 16,035 words
+2026-04-12 22:50:19,762 | INFO | macro_text_fetcher |   Beige Book 202103: 16,452 words
+2026-04-12 22:50:22,503 | INFO | macro_text_fetcher |   Beige Book 202106: 16,415 words
+2026-04-12 22:50:25,233 | INFO | macro_text_fetcher |   Beige Book 202109: 16,205 words
+2026-04-12 22:50:26,189 | INFO | macro_text_fetcher |   Beige Book 202110: 16,024 words
+2026-04-12 22:50:27,969 | INFO | macro_text_fetcher |   Progress: 2021-12 (29 found so far)
+2026-04-12 22:50:28,913 | INFO | macro_text_fetcher |   Beige Book 202112: 16,019 words
+2026-04-12 22:50:29,867 | INFO | macro_text_fetcher |   Beige Book 202201: 16,117 words
+2026-04-12 22:50:30,820 | INFO | macro_text_fetcher |   Beige Book 202203: 16,093 words
+2026-04-12 22:50:33,559 | INFO | macro_text_fetcher |   Beige Book 202206: 16,429 words
+2026-04-12 22:50:36,292 | INFO | macro_text_fetcher |   Beige Book 202209: 16,095 words
+2026-04-12 22:50:37,240 | INFO | macro_text_fetcher |   Beige Book 202210: 16,451 words
+2026-04-12 22:50:38,183 | INFO | macro_text_fetcher |   Beige Book 202211: 16,289 words
+2026-04-12 22:50:38,183 | INFO | macro_text_fetcher |   Progress: 2022-12 (36 found so far)
+2026-04-12 22:50:40,930 | INFO | macro_text_fetcher |   Beige Book 202301: 16,225 words
+2026-04-12 22:50:41,895 | INFO | macro_text_fetcher |   Beige Book 202303: 16,127 words
+2026-04-12 22:50:48,176 | INFO | macro_text_fetcher |   Beige Book 202309: 15,913 words
+2026-04-12 22:50:49,129 | INFO | macro_text_fetcher |   Beige Book 202310: 15,882 words
+2026-04-12 22:50:50,081 | INFO | macro_text_fetcher |   Beige Book 202311: 15,390 words
+2026-04-12 22:50:50,082 | INFO | macro_text_fetcher |   Progress: 2023-12 (41 found so far)
+2026-04-12 22:50:52,812 | INFO | macro_text_fetcher |   Beige Book 202401: 781 words
+2026-04-12 22:50:55,503 | INFO | macro_text_fetcher |   Beige Book 202405: 781 words
+2026-04-12 22:50:58,205 | INFO | macro_text_fetcher |   Beige Book 202408: 781 words
+2026-04-12 22:51:00,892 | INFO | macro_text_fetcher |   Beige Book 202410: 781 words
+2026-04-12 22:51:01,804 | INFO | macro_text_fetcher |   Beige Book 202411: 781 words
+2026-04-12 22:51:01,805 | INFO | macro_text_fetcher |   Progress: 2024-12 (46 found so far)
+2026-04-12 22:51:04,522 | INFO | macro_text_fetcher |   Beige Book 202501: 781 words
+2026-04-12 22:51:07,227 | INFO | macro_text_fetcher |   Beige Book 202505: 780 words
+2026-04-12 22:51:09,951 | INFO | macro_text_fetcher |   Beige Book 202508: 780 words
+2026-04-12 22:51:12,685 | INFO | macro_text_fetcher |   Beige Book 202510: 780 words
+2026-04-12 22:51:13,630 | INFO | macro_text_fetcher |   Beige Book 202511: 780 words
+2026-04-12 22:51:13,630 | INFO | macro_text_fetcher |   Progress: 2025-12 (51 found so far)
+2026-04-12 22:51:16,340 | INFO | macro_text_fetcher |   Beige Book 202601: 780 words
+2026-04-12 22:51:18,123 | INFO | macro_text_fetcher |   Total Beige Books fetched: 52
+2026-04-12 22:51:18,309 | INFO | macro_text_fetcher | Macro text done — 52 documents at data/raw/macro_text/2026-04-13_macro_text_docs.parquet
+2026-04-12 22:54:16,941 | INFO | macro_text_fetcher | Fetching Beige Books 2017-01-01 → 2023-12-31...
+2026-04-12 22:54:18,013 | INFO | macro_text_fetcher |   Beige Book 201701: 14,705 words
+2026-04-12 22:54:18,944 | INFO | macro_text_fetcher |   Beige Book 201703: 14,944 words
+2026-04-12 22:54:19,889 | INFO | macro_text_fetcher |   Beige Book 201705: 14,994 words
+2026-04-12 22:54:24,388 | INFO | macro_text_fetcher |   Beige Book 201709: 15,186 words
+2026-04-12 22:54:25,333 | INFO | macro_text_fetcher |   Beige Book 201710: 15,003 words
+2026-04-12 22:54:26,280 | INFO | macro_text_fetcher |   Beige Book 201711: 15,164 words
+2026-04-12 22:54:26,280 | INFO | macro_text_fetcher |   Progress: 2017-12 (6 found so far)
+2026-04-12 22:54:28,986 | INFO | macro_text_fetcher |   Beige Book 201801: 15,080 words
+2026-04-12 22:54:29,927 | INFO | macro_text_fetcher |   Beige Book 201803: 15,103 words
+2026-04-12 22:54:30,877 | INFO | macro_text_fetcher |   Beige Book 201805: 15,240 words
+2026-04-12 22:54:35,389 | INFO | macro_text_fetcher |   Beige Book 201809: 15,355 words
+2026-04-12 22:54:36,334 | INFO | macro_text_fetcher |   Beige Book 201810: 15,360 words
+2026-04-12 22:54:38,124 | INFO | macro_text_fetcher |   Progress: 2018-12 (11 found so far)
+2026-04-12 22:54:39,401 | INFO | macro_text_fetcher |   Beige Book 201812: 15,519 words
+2026-04-12 22:54:40,364 | INFO | macro_text_fetcher |   Beige Book 201901: 14,885 words
+2026-04-12 22:54:41,309 | INFO | macro_text_fetcher |   Beige Book 201903: 15,250 words
+2026-04-12 22:54:44,071 | INFO | macro_text_fetcher |   Beige Book 201906: 15,319 words
+2026-04-12 22:54:46,809 | INFO | macro_text_fetcher |   Beige Book 201909: 15,368 words
+2026-04-12 22:54:47,770 | INFO | macro_text_fetcher |   Beige Book 201910: 15,545 words
+2026-04-12 22:54:48,706 | INFO | macro_text_fetcher |   Beige Book 201911: 15,636 words
+2026-04-12 22:54:48,706 | INFO | macro_text_fetcher |   Progress: 2019-12 (18 found so far)
+2026-04-12 22:54:51,436 | INFO | macro_text_fetcher |   Beige Book 202001: 15,315 words
+2026-04-12 22:54:52,390 | INFO | macro_text_fetcher |   Beige Book 202003: 15,851 words
+2026-04-12 22:54:53,344 | INFO | macro_text_fetcher |   Beige Book 202005: 16,849 words
+2026-04-12 22:54:57,900 | INFO | macro_text_fetcher |   Beige Book 202009: 16,357 words
+2026-04-12 22:54:58,858 | INFO | macro_text_fetcher |   Beige Book 202010: 16,355 words
+2026-04-12 22:55:00,648 | INFO | macro_text_fetcher |   Progress: 2020-12 (23 found so far)
+2026-04-12 22:55:01,611 | INFO | macro_text_fetcher |   Beige Book 202012: 16,043 words
+2026-04-12 22:55:02,561 | INFO | macro_text_fetcher |   Beige Book 202101: 16,035 words
+2026-04-12 22:55:03,492 | INFO | macro_text_fetcher |   Beige Book 202103: 16,452 words
+2026-04-12 22:55:06,236 | INFO | macro_text_fetcher |   Beige Book 202106: 16,415 words
+2026-04-12 22:55:08,991 | INFO | macro_text_fetcher |   Beige Book 202109: 16,205 words
+2026-04-12 22:55:09,942 | INFO | macro_text_fetcher |   Beige Book 202110: 16,024 words
+2026-04-12 22:55:11,710 | INFO | macro_text_fetcher |   Progress: 2021-12 (29 found so far)
+2026-04-12 22:55:12,669 | INFO | macro_text_fetcher |   Beige Book 202112: 16,019 words
+2026-04-12 22:55:13,627 | INFO | macro_text_fetcher |   Beige Book 202201: 16,117 words
+2026-04-12 22:55:14,553 | INFO | macro_text_fetcher |   Beige Book 202203: 16,093 words
+2026-04-12 22:55:17,263 | INFO | macro_text_fetcher |   Beige Book 202206: 16,429 words
+2026-04-12 22:55:20,331 | INFO | macro_text_fetcher |   Beige Book 202209: 16,095 words
+2026-04-12 22:55:21,295 | INFO | macro_text_fetcher |   Beige Book 202210: 16,451 words
+2026-04-12 22:55:22,242 | INFO | macro_text_fetcher |   Beige Book 202211: 16,289 words
+2026-04-12 22:55:22,243 | INFO | macro_text_fetcher |   Progress: 2022-12 (36 found so far)
+2026-04-12 22:55:24,973 | INFO | macro_text_fetcher |   Beige Book 202301: 16,225 words
+2026-04-12 22:55:25,917 | INFO | macro_text_fetcher |   Beige Book 202303: 16,127 words
+2026-04-12 22:55:32,286 | INFO | macro_text_fetcher |   Beige Book 202309: 15,913 words
+2026-04-12 22:55:33,242 | INFO | macro_text_fetcher |   Beige Book 202310: 15,882 words
+2026-04-12 22:55:34,201 | INFO | macro_text_fetcher |   Beige Book 202311: 15,390 words
+2026-04-12 22:55:34,201 | INFO | macro_text_fetcher |   Progress: 2023-12 (41 found so far)
+2026-04-12 22:55:35,985 | INFO | macro_text_fetcher |   Total Beige Books fetched: 41
+2026-04-12 22:55:36,107 | INFO | macro_text_fetcher | Macro text done — 41 documents at data/raw/macro_text/2026-04-13_macro_text_docs.parquet

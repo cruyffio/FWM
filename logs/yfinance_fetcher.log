@@ -1,0 +1,17 @@
+2026-04-11 14:19:43,393 | INFO | yfinance_fetcher | Pulling yfinance prices for ['GC=F', 'GLD', 'IAU', '^VIX', 'DX-Y.NYB', '^TNX', '^TYX'] ...
+2026-04-11 14:19:44,122 | INFO | yfinance_fetcher |   GC=F: 6,426 rows
+2026-04-11 14:19:44,123 | INFO | yfinance_fetcher |   GLD: 5,381 rows
+2026-04-11 14:19:44,125 | INFO | yfinance_fetcher |   IAU: 5,333 rows
+2026-04-11 14:19:44,126 | INFO | yfinance_fetcher |   ^VIX: 6,607 rows
+2026-04-11 14:19:44,128 | INFO | yfinance_fetcher |   DX-Y.NYB: 6,636 rows
+2026-04-11 14:19:44,129 | INFO | yfinance_fetcher |   ^TNX: 6,601 rows
+2026-04-11 14:19:44,130 | INFO | yfinance_fetcher |   ^TYX: 6,601 rows
+2026-04-11 14:19:44,156 | INFO | yfinance_fetcher | Pulling COMEX gold futures curve ...
+2026-04-11 14:19:44,824 | WARNING | yfinance_fetcher |   No data for GCG25.CMX
+2026-04-11 14:19:45,345 | WARNING | yfinance_fetcher |   No data for GCJ25.CMX
+2026-04-11 14:19:45,612 | WARNING | yfinance_fetcher |   No data for GCM25.CMX
+2026-04-11 14:19:45,890 | WARNING | yfinance_fetcher |   No data for GCQ25.CMX
+2026-04-11 14:19:45,968 | WARNING | yfinance_fetcher |   No data for GCZ25.CMX
+2026-04-11 14:19:46,232 | WARNING | yfinance_fetcher |   No data for GCG26.CMX
+2026-04-11 14:19:46,232 | WARNING | yfinance_fetcher | No futures curve data fetched — contract codes may need updating.
+2026-04-11 14:19:46,232 | INFO | yfinance_fetcher | yfinance fetcher done.

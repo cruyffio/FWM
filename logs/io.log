@@ -1,0 +1,14 @@
+2026-04-11 14:19:38,771 | INFO | io | Wrote 40,754 rows → data/raw/fred/2026-04-11_fred_series.parquet
+2026-04-11 14:19:44,156 | INFO | io | Wrote 43,585 rows → data/raw/etf_and_market/2026-04-11_yf_prices.parquet
+2026-04-11 14:19:46,870 | INFO | io | Wrote 315 rows → data/raw/lbma/2026-04-11_lbma_gold_fix.parquet
+2026-04-11 15:03:38,793 | INFO | io | Wrote 6,426 rows → data/raw/lbma/2026-04-11_lbma_gold_fix.parquet
+2026-04-12 21:14:00,853 | INFO | io | Wrote 85 rows → data/raw/fomc/2026-04-13_fomc_documents.parquet
+2026-04-12 21:43:04,032 | INFO | io | Wrote 978 rows → data/raw/fed_speeches/2026-04-13_fed_speeches.parquet
+2026-04-12 22:12:07,587 | INFO | io | Wrote 611 rows → data/raw/fed_speeches/2026-04-13_fed_speeches.parquet
+2026-04-12 22:51:18,308 | INFO | io | Wrote 52 rows → data/raw/macro_text/2026-04-13_macro_text_docs.parquet
+2026-04-12 22:55:36,106 | INFO | io | Wrote 41 rows → data/raw/macro_text/2026-04-13_macro_text_docs.parquet
+2026-04-19 13:17:49,836 | INFO | io | Wrote 700 rows → data/raw/fed_speeches/2026-04-19_fed_speeches.parquet
+2026-04-19 14:53:57,448 | INFO | io | Wrote 311 rows → data/raw/fomc/2026-04-19_fomc_documents.parquet
+2026-04-19 15:33:51,366 | INFO | io | Wrote 693 rows → data/raw/cftc_cot/2026-04-19_cot_gold_disaggregated.parquet
+2026-04-19 15:34:09,439 | INFO | io | Wrote 10,714 rows → data/raw/etf_flows/2026-04-19_etf_gld_iau_flows.parquet
+2026-04-19 15:34:56,576 | INFO | io | Wrote 6,431 rows → data/raw/comex_inventory/2026-04-19_comex_gold_inventory.parquet
